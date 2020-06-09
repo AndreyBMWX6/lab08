@@ -1,0 +1,14 @@
+Execute command: [
+  `which`
+  `cmake`
+]
+[/home/andrey/AndreyBMWX6/workspace/projects/lab07]> "which" "cmake"
+/snap/bin/cmake
+Execute command: [
+  `cmake`
+  `--version`
+]
+[/home/andrey/AndreyBMWX6/workspace/projects/lab07]> "cmake" "--version"
+cmake version 3.17.3
+
+CMake suite maintained and supported by Kitware (kitware.com/cmake).
